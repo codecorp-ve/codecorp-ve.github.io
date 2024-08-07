@@ -198,3 +198,19 @@ a.credit {
 .da-section {
   padding: 100px 0;
 }
+
+.whatsapp-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25d366;
+  color: white;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  line-height: 60px;
+  font-size: 24px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 999;
+}
